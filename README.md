@@ -1,15 +1,19 @@
 # ASE ADA Sample Subject Implementation
-DataSet2.csv file contains records for 97 countries around the world regarding indicators related to the business environment. The observed variables values reflect the situation for one year, 2011 (data source: World Bank: http://data.worldbank.org).
+```./resources/Rankings.csv``` file contains records for 190 countries around the world regarding indicators related to the business environment. The observed variables values reflect the situation for one year, 2018 (data source: World Bank: http://data.worldbank.org). The original dataset used by the professor was not available.
 
 The observed variables are as follows:
-1. Start-up procedures
-2. Tax Payments
-3. Time required
-4. Time to pay taxes
-5. Tax rate
-6. Revenue
-7. Foreign investment
-8. High technology exports
+1. Economy
+2. globalRank
+3. Starting a Business
+4. Dealing with Construction Permits
+5. Getting Electricity
+6. Registering Property
+7. Getting Credit
+8. Protecting Minority Investors
+9. Paying Taxes
+10. Trading across Borders
+11. Enforcing Contracts
+12. Resolving Insolvency
 
 ## Requirements
 1. Read the data file and upload it into a Pandas dataframe (0.75p).
