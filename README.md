@@ -24,5 +24,5 @@ The observed variables are as follows:
 6. Determine the principal components, save and display them (1.5p).
 7. Plot the variance agglutinated by each principal component as a line plot, along with an horizontal line corresponding to thje value of variance equal to 1 (1p).
 8. List and describe accuratley the criteria for choosing the axes, principal components (1p).
-9. ?
+9. Determine, save and display the matrix of scores.
 10. Determine the correlation coefficient.
